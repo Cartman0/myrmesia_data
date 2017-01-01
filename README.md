@@ -41,7 +41,8 @@ Ogata(1991)氏が測定したものである．
 表の中のデータの "-" は欠損値を表す．
 
 >![測定部位](https://github.com/Cartman0/myrmesia_data/blob/master/img/myrmesia_region_measurement.jpg?raw=true)
-> NagatomoNakamura, "クラスター化の統計的評価とその応用", 1995年3月, p.130 図9.1キバハリアリの計測部位
+
+> 引用：NagatomoNakamura, "クラスター化の統計的評価とその応用", 1995年3月, p.130 図9.1キバハリアリの計測部位
 
 ## Reference
 - NagatomoNakamura, "クラスター化の統計的評価とその応用", 1995年3月, p.130
